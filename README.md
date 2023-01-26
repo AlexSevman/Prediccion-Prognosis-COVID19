@@ -12,4 +12,4 @@ d.	Modelos Clasificación II. Similar al Notebook Modelos Clasificación I, pero
 3)	Dos documentos csv. Documentos generados durante el proceso de ‘Loading_Checking’ (COVID_pos) y tras el EDA (Clinical_EDA)
 
 Alejandro M. Sevillano Mantas
-![image](https://user-images.githubusercontent.com/107324573/214782383-a3ecbc6d-ce47-4a9e-a368-e18ceaa2b821.png)
+
